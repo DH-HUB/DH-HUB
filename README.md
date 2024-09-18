@@ -27,7 +27,10 @@ Passionnée par le développement et les technologies numériques, je suis actue
 
 - **Cora Informatique (2022 - Présent) :** Alternance Analyste Programmeur
 - **Cora Informatique (2020 - 2022) :** Stages en Développement Logiciel et Analyse
-- **DW France (2019) :** Web-designer (Stage)
+- **C2E, Metz (2021) :** Assistante Informatique  
+    - Développement d'un système admin avec Django  
+    - Maintenance front-end et back-end  
+    - Gestion de parc informatique
 
 ## 🔭 Réalisations Techniques
 
