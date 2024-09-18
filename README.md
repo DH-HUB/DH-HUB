@@ -41,7 +41,8 @@ Passionnée par le développement et les technologies numériques, je suis actue
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakimaDjermouni&show_icons=true&theme=radical)
+![Hakima's GitHub stats](https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=radical)
+
 
 ## 📫 Me contacter
 
