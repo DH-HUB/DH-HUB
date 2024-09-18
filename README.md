@@ -28,16 +28,11 @@ Passionnée par le développement et les technologies numériques, je suis actue
 - **Cora Informatique (2022 - Présent) :** Alternance Analyste Programmeur
 - **Cora Informatique (2020 - 2022) :** Stages en Développement Logiciel et Analyse
 - **DW France (2019) :** Web-designer (Stage)
-- **NORMA (2002 - 2018) :** Responsable de magasin, Responsable Caisse, Caissière ELS
-- **Autres expériences :** Vendeuse en boutique de luxe, Secrétaire, Hôtesse d'accueil
 
 ## 🔭 Réalisations Techniques
 
-- Développement de modules pour des logiciels de gestion
+- Développement de logiciels de gestion
 - Création d'applications web et mobile
-- Maintenance et débogage de systèmes front-end et back-end
-- Création de sites web avec WordPress et Prestashop
-- Conception graphique : flyers, logos, vidéos, couvertures d'ouvrages
 
 ## 📈 GitHub Stats
 
