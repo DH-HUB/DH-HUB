@@ -10,7 +10,7 @@
   </text>
 </svg>
 
-Salut à toi, codeur curieux ou curieuse ! Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 🎉
+Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 🎉
 
 > _"L'aventure est au bout de chaque ligne de code."_ 💻✨
 
