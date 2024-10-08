@@ -27,7 +27,7 @@ Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
 
 ## 👋 À propos de moi
 
-Passionnée par le développement et les technologies numériques, je suis actuellement en alternance en tant qu'Analyste Programmeur chez **Cora Informatique** à Metz. Avec une expérience riche dans le développement d'applications web, mobiles et desktop, ainsi que dans la gestion d'équipes, je suis toujours à la recherche de nouveaux défis pour perfectionner mes compétences en programmation et gestion de projets.
+Passionnée par l'analyse, le développement et les technologies numériques, j'ai récemment terminé mon alternance en tant qu'Analyste Programmeuse chez **Cora Informatique** à Metz. Forte de mon expérience dans le développement d'applications web, mobiles et desktop, ainsi que dans la gestion de projets, je suis à la recherche de nouvelles opportunités pour continuer à perfectionner mes compétences et relever de nouveaux défis. Toujours curieuse et motivée, je reste ouverte à toute collaboration ou projet qui me permettra de contribuer à des solutions innovantes.
 
 ## 🔧 Compétences techniques
 
