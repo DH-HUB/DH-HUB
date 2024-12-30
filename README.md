@@ -19,7 +19,7 @@ Ici, c'est l'endroit où mes projets prennent vie, où les idées se transformen
 **Alors, prêt(e) à plonger dans mes projets et à explorer mes contributions GitHub ?** Si une idée te traverse l'esprit, n'hésite pas à me contacter ou à proposer des collaborations. Je suis toujours à l'affût de nouveaux défis et d'opportunités pour grandir dans cet univers incroyable qu'est la tech ! 🌍🌟
 
 💡 **Astuce pour toi :** 
-- Jette un coup d'œil à mes [repositories](https://github.com/DH-HUB) pour voir mes projets en action.
+- Jette un coup d'œil à mes [repositories](https://github.com/DH-HUB?tab=repositories) pour voir mes projets en action.
 - Ne repars pas sans un ⭐ sur tes coups de cœur 😉.
 
 Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
