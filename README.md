@@ -19,7 +19,7 @@ Ici, c'est l'endroit où mes projets prennent vie, où les idées se transformen
 **Alors, prêt(e) à plonger dans mes projets et à explorer mes contributions GitHub ?** Si une idée te traverse l'esprit, n'hésite pas à me contacter ou à proposer des collaborations. Je suis toujours à l'affût de nouveaux défis et d'opportunités pour grandir dans cet univers incroyable qu'est la tech ! 🌍🌟
 
 💡 **Astuce pour toi :** 
-- Jette un coup d'œil à mes [repositories](https://github.com/tonprofil) pour voir mes projets en action.
+- Jette un coup d'œil à mes [repositories](https://github.com/DH-HUB) pour voir mes projets en action.
 - Ne repars pas sans un ⭐ sur tes coups de cœur 😉.
 
 Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
@@ -38,14 +38,22 @@ Passionnée par l'analyse, le développement et les technologies numériques, j'
 - **Bibliothèques :** ReactJS, Bootstrap
 - **Gestion de projet :** AGILE (Kanban, Scrum)
 - **Outils :** Git, SVN, Adobe Creative Cloud (XD, Illustrator, Photoshop, InDesign, After Effects, Premiere)
-
+  
 ## 🎓 Formations
 
-- **2022 - 2024 :** Mastère Management Ingénierie Informatique (Alternance) - Metz Numeric School
-- **2022 :** Titre Professionnel Concepteur Développeur d'Applications (Java) - Metz Numeric School
-- **2020 :** Titre Professionnel Développeur Web et Web Mobile - CCI Laxou
-- **2019 :** Titre Professionnel Web-designer - Centre de Formation Form-High-Tech, Metz
-- **1995 :** Baccalauréat S - Scientifique
+- **2022 - 2024 :** Mastère Management Ingénierie Informatique (Alternance) - Metz Numeric School  
+  - **Titre RNCP Niveau 7 (36469)** : Expert en Ingénierie du Développement et Architecture Logicielle  
+
+- **2022 :** Titre Professionnel Concepteur Développeur d'Applications (Java) - Metz Numeric School  
+  - **Titre RNCP Niveau 6 (31114)** : Conception et développement d'applications.  
+
+- **2020 :** Titre Professionnel Développeur Web et Web Mobile - CCI Laxou  
+  - **Titre RNCP Niveau 5 (31114)** : Création de solutions web et mobiles.  
+
+- **2019 :** Titre Professionnel Web-designer - Centre de Formation Form-High-Tech, Metz  
+  - **Titre RNCP Niveau 5 (32004)** : Spécialisation en création graphique et design UX/UI.  
+
+- **1995 :** Baccalauréat S - Scientifique  
 
 ## 💼 Expérience professionnelle
 
