@@ -4,7 +4,7 @@
 # ✨ Bienvenue, explorateur du code ! 🚀
 
 <div align="center">
-  <img src="[https://github.com/DH-HUB/assets/scrolling_text.gif](https://github.com/DH-HUB/assets.git)" alt="GIF Texte Animé" width="600">
+  <img src="[[https://github.com/DH-HUB/assets/scrolling_text.gif](https://github.com/DH-HUB/assets.git)](https://raw.githubusercontent.com/DH-HUB/assets/39fd82b5319cae125a77b2e471097351eeb514c1/scrolling_text.gif?token=AOPMCWJOWUBNPVCOVT5PL5THQB2GM)" alt="GIF Texte Animé" width="600">
 </div>
 <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="40" font-size="24" fill="black">
