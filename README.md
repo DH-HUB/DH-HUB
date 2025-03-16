@@ -27,19 +27,50 @@ Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
 
 ## 👋 À propos de moi
 
-Passionnée par l'analyse, le développement et les technologies numériques, j'ai récemment terminé mon alternance en tant qu'Analyste Programmeuse chez **Cora Informatique** à Metz. Forte de mon expérience dans le développement d'applications web, mobiles et desktop, ainsi que dans la gestion de projets, je suis à la recherche de nouvelles opportunités pour continuer à perfectionner mes compétences et relever de nouveaux défis. Toujours curieuse et motivée, je reste ouverte à toute collaboration ou projet qui me permettra de contribuer à des solutions innovantes.
+Passionnée par l’analyse de données, le développement et les technologies numériques, je me spécialise actuellement en Data Science à travers une formation à distance chez DataScientest. Cette formation, modulable et compatible avec une activité professionnelle, me permet d'approfondir mes compétences en Machine Learning, Big Data et MLOps, tout en menant des projets concrets et appliqués.
 
-## 🔧 Compétences techniques
+Forte d’une expérience en développement d’applications web, mobiles et desktop, ainsi qu’en gestion de projets et intégration DevOps, je suis en quête de nouvelles opportunités pour mettre en pratique mes connaissances et relever de nouveaux défis. Toujours curieuse et motivée, je reste ouverte aux collaborations et aux projets qui me permettront de contribuer à des solutions innovantes.
 
-- **Langages :** JAVA, PYTHON, JAVASCRIPT, PHP, SQL, HTML/CSS
-- **CMS :** WordPress, Prestashop
-- **Conteneurisation :** Docker, Kubernetes
-- **Frameworks :** Struts, Spring Boot, Angular, Django
-- **Bibliothèques :** ReactJS, Bootstrap
-- **Gestion de projet :** AGILE (Kanban, Scrum)
-- **Outils :** Git, SVN, Adobe Creative Cloud (XD, Illustrator, Photoshop, InDesign, After Effects, Premiere)
+# 📌 COMPÉTENCES
+
+## 📌 Développement & Programmation
+- **Langages :** Java, Python, PHP, SQL, Node.js, C#, Solidity  
+- **Langages front-end :** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Outils :** Spring Boot, Spring Security, Struts, Angular, ReactJS  
+- **Bases de données :** MySQL, Db2, MongoDB, PostgreSQL, SQLServer  
+- **Gestion de projet Agile :** Scrum, JIRA, Notion, Trello  
+- **Pratiques avancées :** Domain Driven Design (DDD), Test Driven Development (TDD), Behavior Driven Development (BDD), Sécurité OWASP  
+
+---
+
+## **📌 Data Science & Machine Learning**  
+- **Langages :** Python, SQL, Scala  
+- **Modélisation :** Scikit-Learn, TensorFlow, PyTorch  
+- **Big Data :** Spark, Hadoop, Elasticsearch  
+- **MLOps :** MLflow, Docker, Kubernetes, CI/CD  
+- **Data Visualisation :** Matplotlib, Seaborn, Plotly, Tableau  
+- **Analyse & préparation des données :** Pandas, NumPy, SQL, Dask, Polars  
+
+---
+
+## **📌 Business Intelligence & Data Engineering**  
+- **ETL & Transformation des données :** Airflow, dbt, Talend  
+- **Outils BI & Reporting :** Power BI, Tableau, Metabase  
+- **Stockage & Bases de données :** PostgreSQL, MySQL, BigQuery, Snowflake
+
+---
+
+## 📌 DevOps & Conteneurisation
+- **Orchestration & Conteneurisation :** Docker, Docker Swarm, Kubernetes, Linux  
+- **CI/CD & Automatisation :** Jenkins, GitLab CI/CD, Git, GitHub, SVN  
+
+---
+
   
 ## 🎓 Formations
+
+- **2025 - 2025 :** Data Scientist (Bac+5, Niveau 7) DataScientest | 2025 Formation à distance
+  - **Certification Mines Paris – PSL- (En cours)**  
 
 - **2022 - 2024 :** Mastère Management Ingénierie Informatique (Alternance) - Metz Numeric School  
   - **Titre RNCP Niveau 7 (36469)** : Expert en Ingénierie du Développement et Architecture Logicielle  
