@@ -27,7 +27,7 @@ Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
 
 ## 👋 À propos de moi
 
-Passionnée par l’analyse de données, le développement et les technologies numériques, je me spécialise actuellement en Data Science à travers une formation à distance chez DataScientest. Cette formation, modulable et compatible avec une activité professionnelle, me permet d'approfondir mes compétences en Machine Learning, Big Data et MLOps, tout en menant des projets concrets et appliqués.
+Passionnée par l’analyse de données, le développement et les technologies numériques, j’ai choisi d’élargir mes compétences en Data Science à travers une formation à distance chez DataScientest. Cette formation, modulable et compatible avec une activité professionnelle, me permet d’approfondir mes connaissances en Machine Learning, Big Data et MLOps, tout en consolidant mon expertise en développement et en ingénierie logicielle.
 
 Forte d’une expérience en développement d’applications web, mobiles et desktop, ainsi qu’en gestion de projets et intégration DevOps, je suis en quête de nouvelles opportunités pour mettre en pratique mes connaissances et relever de nouveaux défis. Toujours curieuse et motivée, je reste ouverte aux collaborations et aux projets qui me permettront de contribuer à des solutions innovantes.
 
