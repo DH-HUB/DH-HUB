@@ -122,7 +122,9 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 
 ##  GitHub stats 
 > Activité de contribution et projets techniques
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakimaDjermouni&layout=compact&theme=tokyonight&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=DH-HUB&color=blueviolet)
+
 
 
 ---
