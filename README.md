@@ -138,8 +138,6 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ---
 
 ## Me contacter
