@@ -120,10 +120,10 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 - Approche qualité : tests, documentation, maintenabilité
 
 
-##  GitHub stats :
+##  GitHub stats 
 > Activité de contribution et projets techniques
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-hub&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&hide_border=true)
 
 ---
 
