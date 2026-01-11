@@ -120,11 +120,10 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 - Approche qualité : tests, documentation, maintenabilité
 
 
-##  GitHub stats
-> Activité de contribution et projets techniques :
+##  GitHub stats :
+> Activité de contribution et projets techniques
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=HakimaDjermouni&layout=compact)
 ---
 
 ## Me contacter
