@@ -123,7 +123,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 ##  GitHub stats 
 > Activité de contribution et projets techniques
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hakima Djermouni&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HakimaDjermouni&layout=compact&hide_border=true)
 
 ---
 
