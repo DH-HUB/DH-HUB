@@ -131,7 +131,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DH-HUB&theme=tokyonight&hide_border=true&mode=daily&v=2" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DH-HUB&theme=tokyonight&hide_border=true&v=3" />
 </p>
 
 <p align="center">
