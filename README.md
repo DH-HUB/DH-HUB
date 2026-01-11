@@ -123,8 +123,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 ##  GitHub stats 
 > Activité de contribution et projets techniques
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&hide_border=true&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DH-HUB&show_icons=true&hide_border=true&theme=radical)
 ---
 
 ## Me contacter
