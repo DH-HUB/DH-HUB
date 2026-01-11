@@ -119,11 +119,24 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 - Intégration de bases de données relationnelles et NoSQL
 - Approche qualité : tests, documentation, maintenabilité
 
-
-##  GitHub stats 
+##  GitHub Stats
 > Activité de contribution et projets techniques
 
-![Profile views](https://komarev.com/ghpvc/?username=DH-HUB&color=blueviolet)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DH-HUB&color=blueviolet" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DH-HUB&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
