@@ -123,7 +123,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 > Activité de contribution et projets techniques
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DH-HUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DH-HUB&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DH-HUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
