@@ -120,10 +120,11 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 - Approche qualité : tests, documentation, maintenabilité
 
 
-## GitHub stats
+##  GitHub stats
 > Activité de contribution et projets techniques
 
-![Hakima's GitHub stats](https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ---
 
