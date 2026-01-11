@@ -121,7 +121,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 
 
 ##  GitHub stats
-> Activité de contribution et projets techniques
+> Activité de contribution et projets techniques:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=radical&cache_seconds=1800)
 
