@@ -121,7 +121,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 
 
 ##  GitHub stats
-> Activité de contribution et projets techniques:
+> Activité de contribution et projets techniques :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact)
 
