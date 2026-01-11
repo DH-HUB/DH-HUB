@@ -1,7 +1,7 @@
 
 # Hakima Djermouni
 
-# ✨ Bienvenue, explorateur du code ! 🚀
+#  Bienvenue, explorateur du code ! 
 
 <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="40" font-size="24" fill="black">
@@ -10,103 +10,126 @@
   </text>
 </svg>
 
-Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 🎉
+Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 
 
-> _"L'aventure est au bout de chaque ligne de code."_ 💻✨
+> _"L'aventure est au bout de chaque ligne de code."_ 
 
-Ici, c'est l'endroit où mes projets prennent vie, où les idées se transforment en réalité. Qu'il s'agisse de développement web, mobile ou desktop, tu trouveras sûrement quelque chose d'intéressant à explorer. 👩‍💻
+Ici, c'est l'endroit où mes projets prennent vie, où les idées se transforment en réalité. Qu'il s'agisse de développement web, mobile ou desktop, tu trouveras sûrement quelque chose d'intéressant à explorer. 
 
-**Alors, prêt(e) à plonger dans mes projets et à explorer mes contributions GitHub ?** Si une idée te traverse l'esprit, n'hésite pas à me contacter ou à proposer des collaborations. Je suis toujours à l'affût de nouveaux défis et d'opportunités pour grandir dans cet univers incroyable qu'est la tech ! 🌍🌟
+**Alors, prêt(e) à plonger dans mes projets et à explorer mes contributions GitHub ?** Si une idée te traverse l'esprit, n'hésite pas à me contacter ou à proposer des collaborations. Je suis toujours à l'affût de nouveaux défis et d'opportunités pour grandir dans cet univers incroyable qu'est la tech ! 
 
-💡 **Astuce pour toi :** 
-- Jette un coup d'œil à mes [repositories](https://github.com/DH-HUB?tab=repositories) pour voir mes projets en action.
-- Ne repars pas sans un ⭐ sur tes coups de cœur 😉.
+**Pour aller plus loin :**  
+- Consulte mes [repositories](https://github.com/DH-HUB?tab=repositories) pour découvrir mes projets Data, Machine Learning et ingénierie logicielle.
+- Si un projet t’intéresse, un ⭐ est toujours apprécié.
 
-Bonne exploration, et n'oublie pas de t'amuser en codant ! 🤖🎨
+Bonne exploration.
 
 
-## 👋 À propos de moi
 
-Passionnée par l’analyse de données, le développement et les technologies numériques, j’ai choisi d’élargir mes compétences en Data Science à travers une formation à distance chez DataScientest. Cette formation, modulable et compatible avec une activité professionnelle, me permet d’approfondir mes connaissances en Machine Learning, Big Data et MLOps, tout en consolidant mon expertise en développement et en ingénierie logicielle.
+## À propos de moi
 
-Forte d’une expérience en développement d’applications web, mobiles et desktop, ainsi qu’en gestion de projets et intégration DevOps, je suis en quête de nouvelles opportunités pour mettre en pratique mes connaissances et relever de nouveaux défis. Toujours curieuse et motivée, je reste ouverte aux collaborations et aux projets qui me permettront de contribuer à des solutions innovantes.
+Passionnée par l’analyse de données, le développement logiciel et les technologies numériques, je suis **Data Scientist certifiée (DataScientest × Mines Paris – PSL)**.
 
-# 📌 COMPÉTENCES
+Cette formation exigeante m’a permis de consolider de solides compétences en **Machine Learning, Big Data et MLOps**, tout en capitalisant sur mon expertise initiale en **développement applicatif et ingénierie logicielle**. Elle s’inscrit dans une démarche de montée en compétence continue, orientée vers des solutions data robustes, industrialisées et exploitables en production.
 
-## 📌 Développement & Programmation
-- **Langages :** Java, Python, PHP, SQL, Node.js, C#, Solidity  
-- **Langages front-end :** JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks & Outils :** Spring Boot, Spring Security, Struts, Angular, ReactJS  
-- **Bases de données :** MySQL, Db2, MongoDB, PostgreSQL, SQLServer  
-- **Gestion de projet Agile :** Scrum, JIRA, Notion, Trello  
-- **Pratiques avancées :** Domain Driven Design (DDD), Test Driven Development (TDD), Behavior Driven Development (BDD), Sécurité OWASP  
+Forte d’une expérience en développement d’applications (Java / Spring Boot), en intégration de systèmes et en environnements DevOps, j’évolue aujourd’hui à l’interface entre **logiciel, data et métiers**. Curieuse, rigoureuse et orientée résolution de problèmes, je suis motivée par les projets innovants à forte valeur ajoutée, mêlant données, automatisation et impact concret.
 
----
 
-## **📌 Data Science & Machine Learning**  
-- **Langages :** Python, SQL, Scala  
-- **Modélisation :** Scikit-Learn, TensorFlow, PyTorch  
-- **Big Data :** Spark, Hadoop, Elasticsearch  
-- **MLOps :** MLflow, Docker, Kubernetes, CI/CD  
+# COMPÉTENCES
+
+##  Data Science & Machine Learning
+- **Langages :** Python, SQL  
+- **Analyse & préparation des données :** Pandas, NumPy, Polars, Dask  
+- **Statistiques & Machine Learning :** Scikit-learn (régression, classification, clustering), Feature Engineering, Validation croisée  
+- **Deep Learning :** TensorFlow, PyTorch (bases)  
+- **Big Data & calcul distribué :** Spark (PySpark), Hadoop  
+- **MLOps & industrialisation :** MLflow, Docker, Kubernetes, CI/CD  
 - **Data Visualisation :** Matplotlib, Seaborn, Plotly, Tableau  
-- **Analyse & préparation des données :** Pandas, NumPy, SQL, Dask, Polars  
 
 ---
 
-## **📌 Business Intelligence & Data Engineering**  
-- **ETL & Transformation des données :** Airflow, dbt, Talend  
-- **Outils BI & Reporting :** Power BI, Tableau, Metabase  
-- **Stockage & Bases de données :** PostgreSQL, MySQL, BigQuery, Snowflake
+##  Data Engineering & Business Intelligence
+- **Pipelines & orchestration :** Airflow  
+- **ETL & transformation :** dbt, Talend  
+- **Stockage & bases de données :** PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake  
+- **Outils BI & reporting :** Power BI, Tableau, Metabase  
 
 ---
 
-## 📌 DevOps & Conteneurisation
-- **Orchestration & Conteneurisation :** Docker, Docker Swarm, Kubernetes, Linux  
-- **CI/CD & Automatisation :** Jenkins, GitLab CI/CD, Git, GitHub, SVN  
+##  Développement & Programmation
+- **Langages :** Java, Python, PHP, SQL, Node.js, C#, Solidity  
+- **Front-end :** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & outils :** Spring Boot, Spring Security, Struts, Angular, React  
+- **Architecture & pratiques :** DDD, TDD, BDD, Sécurité OWASP  
+- **Bases de données :** MySQL, Db2, PostgreSQL, MongoDB, SQL Server  
+
+---
+
+##  DevOps & Environnements techniques
+- **Conteneurisation & orchestration :** Docker, Docker Swarm, Kubernetes, Linux  
+- **CI/CD & automatisation :** Jenkins, GitLab CI/CD, Git, GitHub, SVN  
+- **Gestion de projet Agile :** Scrum, JIRA, Notion, Trello  
 
 ---
 
   
-## 🎓 Formations
+##  Formations
 
-- **2025 - 2025 :** Data Scientist (Bac+5, Niveau 7) DataScientest | 2025 Formation à distance
-  - **Certification Mines Paris – PSL- (En cours)**  
+- **2025 :** **Data Scientist (Bac+5, Niveau 7)** – DataScientest  
+  - **Certification : Data Scientist – Mines Paris – PSL**  
+  - Formation à distance – Machine Learning, Big Data, MLOps  
 
-- **2022 - 2024 :** Mastère Management Ingénierie Informatique (Alternance) - Metz Numeric School  
+- **2022 – 2024 :** Mastère Management Ingénierie Informatique (Alternance) – Metz Numeric School  
   - **Titre RNCP Niveau 7 (36469)** : Expert en Ingénierie du Développement et Architecture Logicielle  
 
-- **2022 :** Titre Professionnel Concepteur Développeur d'Applications (Java) - Metz Numeric School  
-  - **Titre RNCP Niveau 6 (31114)** : Conception et développement d'applications.  
+- **2022 :** Concepteur Développeur d’Applications (Java) – Metz Numeric School  
+  - **Titre RNCP Niveau 6 (31114)** : Conception et développement d’applications  
 
-- **2020 :** Titre Professionnel Développeur Web et Web Mobile - CCI Laxou  
-  - **Titre RNCP Niveau 5 (31114)** : Création de solutions web et mobiles.  
+- **2020 :** Développeur Web et Web Mobile – CCI Laxou  
+  - **Titre RNCP Niveau 5 (31114)**  
 
-- **2019 :** Titre Professionnel Web-designer - Centre de Formation Form-High-Tech, Metz  
-  - **Titre RNCP Niveau 5 (32004)** : Spécialisation en création graphique et design UX/UI.  
+- **2019 :** Web Designer – Centre de formation Form-High-Tech, Metz  
+  - **Titre RNCP Niveau 5 (32004)** : UX/UI & création graphique  
 
-- **1995 :** Baccalauréat S - Scientifique  
+- **1995 :** Baccalauréat Scientifique  
 
-## 💼 Expérience professionnelle
+##  Expérience professionnelle
 
-- **Cora Informatique (2022 - Présent) :** Alternance Analyste Programmeuse
-- **Cora Informatique (2020 - 2022) :** Stages en Développement Logiciel et Analyse
-- **C2E, Metz (2021) :** Assistante Informatique  
-    - Développement d'un système admin avec Django  
-    - Maintenance front-end et back-end  
-    - Gestion de parc informatique
+- **Cora Informatique** — Analyste développeuse Java / Data (2020–2024)
 
-## 🔭 Réalisations techniques
 
-- Développement de logiciels de gestion
-- Création d'applications web et mobile
+##  Projets Data & Machine Learning
 
-## 📈 GitHub stats
+###  Classification de produits e-commerce — Projet Rakuten
+- Classification multimodale de produits à partir de **données textuelles et images**
+- NLP avec **CamemBERT-base** pour la description produit
+- Computer Vision avec **ConvNeXt Tiny** pour l’analyse des images
+- Architecture **late fusion** (fusion tardive des représentations texte / image)
+- Entraînement, évaluation et optimisation des modèles
+- Pipeline de données reproductible et expérimentations suivies
+- Industrialisation orientée **architecture logicielle et MLOps**
+
+🔗 [Lien vers le repository](#)
+
+### Ingénierie logicielle & Architecture
+
+- Conception et développement d’applications métier en **Java / Spring Boot**
+- Architecture orientée **microservices**
+- Mise en place de pipelines **CI/CD** et conteneurisation (**Docker**)
+- Intégration de bases de données relationnelles et NoSQL
+- Approche qualité : tests, documentation, maintenabilité
+
+
+## GitHub stats
+> Activité de contribution et projets techniques
 
 ![Hakima's GitHub stats](https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=radical)
 
+---
 
-## 📫 Me contacter
+## Me contacter
 
-- **Email :** djermounihakima@gmail.com
+- **Email :** djermounihakima@gmail.com  
 - **LinkedIn :** [Hakima Djermouni](https://www.linkedin.com/in/dh--)
+
 
