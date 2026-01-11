@@ -123,7 +123,11 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 ##  GitHub stats 
 > Activité de contribution et projets techniques
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HakimaDjermouni&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HakimaDjermouni&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakimaDjermouni&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
