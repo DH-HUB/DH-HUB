@@ -79,19 +79,19 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
   - **Certification : Data Scientist – Mines Paris – PSL**  
   - Formation à distance – Machine Learning, Big Data, MLOps  
 
-- **2022 – 2024 :** Mastère Management Ingénierie Informatique (Alternance) – Metz Numeric School  
-  - **Titre RNCP Niveau 7 (36469)** : Expert en Ingénierie du Développement et Architecture Logicielle  
+- **2022 – 2024 :** Master Expert en ingénierie informatique Niveau 7, Bac+5 Spécialisé en architecture logicielle et développement de microservices – Metz Numeric School  
+  - **Titre RNCP Niveau 7 (37744)** : Expert en Ingénierie du Développement et Architecture Logicielle  
 
-- **2022 :** Concepteur Développeur d’Applications (Java) – Metz Numeric School  
-  - **Titre RNCP Niveau 6 (31114)** : Conception et développement d’applications  
+- **2022 :** Concepteur Développeur d’Applications (Java) Bac+3 – Metz Numeric School  
+  - **Titre RNCP Niveau 6 (37873)** : Conception et développement d’applications  
 
-- **2020 :** Développeur Web et Web Mobile – CCI Laxou  
-  - **Titre RNCP Niveau 5 (31114)**  
+- **2020 :** Développeur Web et Web Mobile Bac+2 – CCI Laxou  
+  - **Titre RNCP Niveau 5 (37674)**  
 
-- **2019 :** Web Designer – Centre de formation Form-High-Tech, Metz  
+- **2019 :** Web Designer Bac+2 – Centre de formation Form-High-Tech, Metz  
   - **Titre RNCP Niveau 5 (32004)** : UX/UI & création graphique  
 
-- **1995 :** Baccalauréat Scientifique  
+  
 
 ##  Expérience professionnelle
 
