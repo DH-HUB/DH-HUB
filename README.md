@@ -88,8 +88,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
 - **2020 :** Développeur Web et Web Mobile Bac+2 – CCI Laxou  
   - **Titre RNCP Niveau 5 (37674)**  
 
-- **2019 :** Web Designer Bac+2 – Centre de formation Form-High-Tech, Metz  
-  - **Titre RNCP Niveau 5 (00469)** : UX/UI & création graphique  
+- **2019 :** Web Designer UX/UI & création graphique  Bac+2 – Centre de formation Form-High-Tech, Metz   
 
   
 
