@@ -79,7 +79,7 @@ Forte d’une expérience en développement d’applications (Java / Spring Boot
   - **Certification : Data Scientist – Mines Paris – PSL**  
   - Formation à distance – Machine Learning, Big Data, MLOps  
 
-- **2022 – 2024 :** Master Expert en ingénierie informatique Niveau 7, Bac+5 Spécialisé en architecture logicielle et développement de microservices – Metz Numeric School  
+- **2022 – 2024 :** Master Expert en ingénierie informatique Bac+5 Spécialisé en architecture logicielle et développement de microservices – Metz Numeric School  
   - **Titre RNCP Niveau 7 (37744)** : Expert en Ingénierie du Développement et Architecture Logicielle  
 
 - **2022 :** Concepteur Développeur d’Applications (Java) Bac+3 – Metz Numeric School  
