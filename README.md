@@ -9,6 +9,24 @@ Ce GitHub présente des projets personnels orientés data, architecture et réso
     Salut à toi, codeur curieux ou curieuse !
   </text>
 </svg>
+<svg width="600" height="60" viewBox="0 0 600 60"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <text x="-400" y="40"
+        font-size="24"
+        fill="#2F6FEB"
+        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+        
+    <animate attributeName="x"
+             from="-400"
+             to="600"
+             dur="12s"
+             repeatCount="indefinite" />
+             
+    Salut à toi, codeur curieux ou curieuse !
+  </text>
+
+</svg>
 
 Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 
 
