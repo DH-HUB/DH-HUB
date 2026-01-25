@@ -3,23 +3,11 @@
 Ce GitHub présente des projets personnels orientés data, architecture et résolution de problèmes métiers.
 #  Bienvenue, explorateur du code ! 
 
-<svg width="600" height="60" viewBox="0 0 600 60"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <text x="-420" y="40"
-        font-size="24"
-        fill="#2F6FEB"
-        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
-
-    <animate attributeName="x"
-             from="-420"
-             to="600"
-             dur="12s"
-             repeatCount="indefinite" />
-
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-size="24" fill="black">
+    <animate attributeName="x" from="10" to="300" dur="5s" repeatCount="indefinite" />
     Salut à toi, codeur curieux ou curieuse !
   </text>
-
 </svg>
 
 Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 
