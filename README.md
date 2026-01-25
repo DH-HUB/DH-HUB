@@ -1,6 +1,6 @@
 
 # Hakima Djermouni
-
+Ce GitHub présente des projets personnels orientés data, architecture et résolution de problèmes métiers.
 #  Bienvenue, explorateur du code ! 
 
 <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
