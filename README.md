@@ -25,50 +25,57 @@ Ici, c'est l'endroit où mes projets prennent vie, où les idées se transformen
 Bonne exploration.
 
 
+## Compétences
 
-## À propos de moi
+### Backend & APIs
+- Java (Spring Boot, Spring Security)
+- Python, PHP (POO)
+- API REST
+- Architecture microservices
+- Laravel
 
-Passionnée par l’analyse de données, le développement logiciel et les technologies numériques, je suis **Data Scientist certifiée (DataScientest × Mines Paris – PSL)**.
+### Full-Stack Development
+- JavaScript, TypeScript
+- Angular, React, Vue.js
+- HTML5, CSS3
+- Flutter
 
-Cette formation exigeante m’a permis de consolider de solides compétences en **Machine Learning, Big Data et MLOps**, tout en capitalisant sur mon expertise initiale en **développement applicatif et ingénierie logicielle**. Elle s’inscrit dans une démarche de montée en compétence continue, orientée vers des solutions data robustes, industrialisées et exploitables en production.
+### Data Engineering
+- Python, SQL
+- Airflow (orchestration)
+- dbt (transformation)
+- ETL / pipelines de données
+- Spark (PySpark), Hadoop
+- Data Quality : Pandera, tests, dbt, Talend
 
-Forte d’une expérience en développement d’applications (Java / Spring Boot), en intégration de systèmes et en environnements DevOps, j’évolue aujourd’hui à l’interface entre **logiciel, data et métiers**. Curieuse, rigoureuse et orientée résolution de problèmes, je suis motivée par les projets innovants à forte valeur ajoutée, mêlant données, automatisation et impact concret.
+### Bases de données & Data Warehousing
+- PostgreSQL, MySQL, DB2
+- MongoDB
 
+### DevOps & Industrialisation
+- Docker, Docker Swarm
+- CI/CD (GitLab CI, Jenkins)
+- Git
+- Bash
+- Kubernetes
 
-# COMPÉTENCES
+### Tests & Architecture
+- TDD, BDD
+- JUnit, Mockito, Pytest, Jest
+- Domain-Driven Design (DDD)
+- Clean Architecture
 
-##  Data Science & Machine Learning
-- **Langages :** Python, SQL  
-- **Analyse & préparation des données :** Pandas, NumPy, Polars, Dask  
-- **Statistiques & Machine Learning :** Scikit-learn (régression, classification, clustering), Feature Engineering, Validation croisée  
-- **Deep Learning :** TensorFlow, PyTorch (bases)  
-- **Big Data & calcul distribué :** Spark (PySpark), Hadoop  
-- **MLOps & industrialisation :** MLflow, Docker, Kubernetes, CI/CD  
-- **Data Visualisation :** Matplotlib, Seaborn, Plotly, Tableau  
+### Data Analysis & Machine Learning
+- Pandas, NumPy, Polars
+- Scikit-learn (ML classique)
+- MLflow (bases MLOps)
 
----
+### Data Visualisation & BI
+- Matplotlib, Seaborn, Plotly
+- Tableau, Power BI, Metabase
 
-##  Data Engineering & Business Intelligence
-- **Pipelines & orchestration :** Airflow  
-- **ETL & transformation :** dbt, Talend  
-- **Stockage & bases de données :** PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake  
-- **Outils BI & reporting :** Power BI, Tableau, Metabase  
-
----
-
-##  Développement & Programmation
-- **Langages :** Java, Python, PHP, SQL, Node.js, C#, Solidity  
-- **Front-end :** JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks & outils :** Spring Boot, Spring Security, Struts, Angular, React  
-- **Architecture & pratiques :** DDD, TDD, BDD, Sécurité OWASP  
-- **Bases de données :** MySQL, Db2, PostgreSQL, MongoDB, SQL Server  
-
----
-
-##  DevOps & Environnements techniques
-- **Conteneurisation & orchestration :** Docker, Docker Swarm, Kubernetes, Linux  
-- **CI/CD & automatisation :** Jenkins, GitLab CI/CD, Git, GitHub, SVN  
-- **Gestion de projet Agile :** Scrum, JIRA, Notion, Trello  
+### Méthodologies
+- Méthodes agiles : Scrum, JIRA, Notion, Trello   
 
 ---
   
