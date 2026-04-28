@@ -1,89 +1,33 @@
-
 # Hakima Djermouni
-Ce GitHub présente des projets personnels axés sur la data, l’architecture logicielle et la mise en œuvre de solutions métiers.
-#  Bienvenue, explorateur du code ! 
 
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="40" font-size="24" fill="black">
-    <animate attributeName="x" from="10" to="300" dur="5s" repeatCount="indefinite" />
-    Salut à toi, codeur curieux ou curieuse !
-  </text>
-</svg>
+Data Engineer | Software Engineer  
 
-Tu viens de poser tes yeux sur **mon univers numérique**, et je suis ravie de t'accueillir ici. 
+Je conçois et développe des solutions autour de la **data, du machine learning et de l’architecture logicielle**.
 
-> _"L'aventure est au bout de chaque ligne de code."_ 
+## À propos
+Passionnée par la data et les systèmes distribués, je travaille sur des projets combinant :
+- Data Engineering (pipelines, traitement, qualité des données)
+- Machine Learning (NLP, Computer Vision)
+- Backend & architecture (microservices, clean architecture)
 
-Ici, c'est l'endroit où mes projets prennent vie, où les idées se transforment en réalité. Qu'il s'agisse de développement web, mobile ou desktop, tu trouveras sûrement quelque chose d'intéressant à explorer. 
+## Projets
+👉 Consulte mes [repositories](https://github.com/DH-HUB?tab=repositories) pour découvrir mes projets.
 
-**Alors, prêt(e) à plonger dans mes projets et à explorer mes contributions GitHub ?** Si une idée te traverse l'esprit, n'hésite pas à me contacter ou à proposer des collaborations. Je suis toujours à l'affût de nouveaux défis et d'opportunités pour grandir dans cet univers incroyable qu'est la tech ! 
+## Collaboration
+Ouverte aux opportunités et collaborations sur des projets data et software engineering.
 
-**Pour aller plus loin :**  
-- Consulte mes [repositories](https://github.com/DH-HUB?tab=repositories) pour découvrir mes projets Data, Machine Learning et ingénierie logicielle.
-- Si un projet t’intéresse, un ⭐ est toujours apprécié.
-
-Bonne exploration.
-
+Si un projet t’intéresse ou t’est utile, n’hésite pas à lui laisser un ⭐
 
 ## Compétences
 
-### Backend & APIs
-- Java (Spring Boot, Spring Security)
-- Python, PHP (POO)
-- API REST
-- Architecture microservices
-- Laravel
-
-### Full-Stack Development
-- JavaScript, TypeScript
-- Angular, React, Vue.js
-- HTML5, CSS3
-- Flutter
-
-### Data Engineering
-- Python, SQL
-- Airflow (orchestration)
-- dbt (transformation)
-- ETL / pipelines de données
-- Spark (PySpark), Hadoop
-- Data Quality : Pandera, tests, dbt, Talend
-
-### Bases de données & Data Warehousing
-- PostgreSQL, MySQL, DB2
-- MongoDB
-
-### DevOps & Industrialisation
-- Docker, Docker Swarm
-- CI/CD (GitLab CI, Jenkins)
-- Git
-- Bash
-- Kubernetes
-
-### Tests & Architecture
-- TDD, BDD
-- JUnit, Mockito, Pytest, Jest
-- Domain-Driven Design (DDD)
-- Clean Architecture
-
-### Data Analysis & Machine Learning
-- Pandas, NumPy, Polars
-- Scikit-learn (ML classique)
-- MLflow (bases MLOps)
-
-### Data Visualisation & BI
-- Matplotlib, Seaborn, Plotly
-- Tableau, Power BI, Metabase
-
-### Méthodologies
-- Méthodes agiles : Scrum, JIRA, Notion, Trello   
+- **Backend & APIs** : Java (Spring Boot), Python, REST, microservices  
+- **Data Engineering** : Python, SQL, Airflow, dbt, Spark  
+- **Machine Learning** : scikit-learn, NLP, Computer Vision, MLflow  
+- **Frontend** : Angular, React  
+- **DevOps** : Docker, Kubernetes, CI/CD, Git  
+- **Méthodes agiles** : Scrum, JIRA, Notion, Trello   
 
 ---
-  
-
-##  Expérience professionnelle
-
-- **Cora Informatique** — Analyste développeuse Java / Data (2020–2024)
-
 
 ##  Projets Data & Machine Learning
 
