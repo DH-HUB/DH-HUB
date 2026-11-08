@@ -123,15 +123,17 @@ Développement d'applications métier, automatisation de traitements et maintena
   alt="Most used languages in commits"
 />
 
-### Contribution Graph
+### GitHub Contributions
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=DH-HUB&theme=github-compact&hide_border=true"
-  width="98%"
-  alt="GitHub activity graph"
-/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/DH-HUB">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DH-HUB&theme=github_dark"
+      width="98%"
+      alt="GitHub contribution overview"
+    />
+  </a>
+</p>
 
 ---
 
