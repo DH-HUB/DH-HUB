@@ -1,79 +1,153 @@
+
+<div align="center">
+
 # Hakima Djermouni
 
-Data Engineer | Software Engineer  
+**Software Engineer · Full Stack Developer · Data & AI**
 
-Je conçois et développe des solutions autour de la **data, du machine learning et de l’architecture logicielle**.
+*Building scalable applications, reliable APIs and data-driven solutions.*
 
-## À propos
-Passionnée par la data et les systèmes distribués, je travaille sur des projets combinant :
-- Data Engineering (pipelines, traitement, qualité des données)
-- Machine Learning (NLP, Computer Vision)
-- Backend & architecture (microservices, clean architecture)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dh--)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/DH-HUB)
+[![Email](https://img.shields.io/badge/Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:djermounihakima@gmail.com)
 
-## Projets
-👉 Consulte mes [repositories](https://github.com/DH-HUB?tab=repositories) pour découvrir mes projets.
+**Metz, France · Open to opportunities**
 
-## Collaboration
-Ouverte aux opportunités et collaborations sur des projets data et software engineering.
-
-Si un projet t’intéresse ou t’est utile, n’hésite pas à lui laisser un ⭐
-
-## Compétences
-
-- **Backend & APIs** : Java (Spring Boot), Python, REST, microservices  
-- **Data Engineering** : Python, SQL, Airflow, dbt, Spark  
-- **Machine Learning** : scikit-learn, NLP, Computer Vision, MLflow  
-- **Frontend** : Angular, React  
-- **DevOps** : Docker, Kubernetes, CI/CD, Git  
-- **Méthodes agiles** : Scrum, JIRA, Notion, Trello   
+</div>
 
 ---
 
-##  Projets Data & Machine Learning
+## About
 
-###  Classification de produits e-commerce — Projet Rakuten
-- Classification multimodale de produits à partir de **données textuelles et images**
-- NLP avec **CamemBERT-base** pour la description produit
-- Computer Vision avec **ConvNeXt Tiny** pour l’analyse des images
-- Architecture **late fusion** (fusion tardive des représentations texte / image)
-- Entraînement, évaluation et optimisation des modèles
-- Pipeline de données reproductible et expérimentations suivies
-- Industrialisation orientée **architecture logicielle et MLOps**
+Ingénieure logiciel spécialisée dans la conception et le développement d'applications **Full Stack, Backend et Data**.
 
-🔗 [Lien vers le repository](https://github.com)
+Expérience professionnelle en **Java / Spring Boot et Python**, avec une approche orientée architecture, qualité logicielle et performance.
 
-### Ingénierie logicielle & Architecture
+Mes domaines d'intervention :
 
-- Conception et développement d’applications métier en **Java / Spring Boot**
-- Architecture orientée **microservices**
-- Mise en place de pipelines **CI/CD** et conteneurisation (**Docker**)
-- Intégration de bases de données relationnelles et NoSQL
-- Approche qualité : tests, documentation, maintenabilité
+- **Software Engineering** — API REST, architecture applicative, microservices
+- **Full Stack Development** — applications web et interfaces utilisateur
+- **Data & AI** — pipelines de données, Machine Learning et NLP
+- **DevOps & Quality** — Docker, CI/CD, tests et maintenabilité
 
 ---
 
-##  Statistiques GitHub
-> Activité de contribution et projets techniques
+## Tech Stack
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DH-HUB&color=blueviolet" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DH-HUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de Hakima" />
-</p>
+**Languages & Frontend**
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Série de contributions" />
-</p>
+![Skills](https://skillicons.dev/icons?i=java,python,ts,js,php,angular,react,vue&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH-HUB&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
+**Backend & Databases**
+
+![Skills](https://skillicons.dev/icons?i=spring,django,laravel,postgres,mysql,mongodb&theme=dark)
+
+**Data, AI & DevOps**
+
+![Skills](https://skillicons.dev/icons?i=pytorch,sklearn,docker,git,github,githubactions,linux&theme=dark)
+
+<sub>Also working with Airflow, dbt, Spark, Pandas, REST APIs and CI/CD.</sub>
+
+</div>
 
 ---
 
-## Me contacter
+## Selected Projects
 
-- **Email :** djermounihakima@gmail.com  
-- **LinkedIn :** [Hakima Djermouni](https://www.linkedin.com/in/dh--)
+| Project | Description | Stack |
+|:---|:---|:---|
+| **CryptoLoan** | Plateforme Full Stack de gestion de prêts garantis par crypto-actifs | Java, Spring Boot, Angular, PostgreSQL, Docker |
+| **ContribFlow** | Plateforme ETL/ELT pour l'orchestration et la qualité des données | Python, Airflow, dbt, PostgreSQL |
+| **Rakuten Classification** | Classification multimodale de produits e-commerce (texte et images) | PyTorch, CamemBERT, ConvNeXt |
+| **Click & Collect** | Plateforme web distribuée basée sur une architecture microservices | Vue.js, Laravel, Docker |
+
+<div align="center">
+
+[**Explore my repositories**](https://github.com/DH-HUB?tab=repositories)
+
+</div>
+
+---
+
+## Professional Experience
+
+**Full Stack Java Developer — Cora Informatique**  
+*2022 – 2024*
+
+Développement d'applications Java / Spring Boot, API REST, évolution architecturale, maintenance applicative et résolution d'incidents en environnement Agile.
+
+**Python / Django Developer — C2E**  
+*2021*
+
+Développement d'applications métier, automatisation de traitements et maintenance logicielle.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+### Contribution Overview
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DH-HUB&theme=github_dark"
+  width="98%"
+  alt="GitHub contribution overview"
+/>
+
+### Development Insights
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DH-HUB&theme=github_dark"
+  width="49%"
+  alt="GitHub statistics"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DH-HUB&theme=github_dark"
+  width="49%"
+  alt="Programming languages distribution"
+/>
+
+### Coding Activity
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DH-HUB&theme=github_dark&timeZone=Europe/Paris"
+  width="49%"
+  alt="Coding activity by time"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DH-HUB&theme=github_dark"
+  width="49%"
+  alt="Most used languages in commits"
+/>
+
+### Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DH-HUB&theme=github-compact&hide_border=true"
+  width="98%"
+  alt="GitHub activity graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Interested in software engineering, Full Stack development,
+backend architecture and data-driven applications.
+
+**Open to professional opportunities and technical collaborations.**
+
+[LinkedIn](https://www.linkedin.com/in/dh--) ·
+[GitHub](https://github.com/DH-HUB) ·
+[Email](mailto:djermounihakima@gmail.com)
+
+<sub>Designed with simplicity, clarity and engineering in mind.</sub>
+
+</div>
